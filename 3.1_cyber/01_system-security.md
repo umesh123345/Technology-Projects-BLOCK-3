@@ -8,11 +8,12 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6e744529-5c6d-41be-a4dc-b11cc4d9ad55" />
+
 
 ### Questions
 
-1.  How many users exist on the system?
+1.  How many users exist on the system? 
 2.  Which accounts appear to be system accounts?
 3.  Why do operating systems create system accounts?
 
