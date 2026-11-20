@@ -30,7 +30,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/46284c33-3b20-49d7-9cf6-881a17eb2355" />
+
 
 ### Questions
 
