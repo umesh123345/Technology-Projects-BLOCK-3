@@ -53,8 +53,8 @@ Run:
     ss -tuln
 
 ### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/da3c8555-a0da-4f72-9c66-619436f1dbd1" />
 
-(Add screenshot here)
 
 ### Questions
 
