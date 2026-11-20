@@ -32,8 +32,8 @@ Run:
 
 
 ### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/56defa78-c9ce-4485-8212-b4992f836306" />
 
-(Add screenshot here)
 
 ### Questions
 
