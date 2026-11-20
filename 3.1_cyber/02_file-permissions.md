@@ -51,8 +51,8 @@ Run:
     ls -l secret.txt
 
 ### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/eba0423e-2b33-46b1-953c-477f125ed187" />
 
-(Add screenshot here)
 
 ### Questions
 
