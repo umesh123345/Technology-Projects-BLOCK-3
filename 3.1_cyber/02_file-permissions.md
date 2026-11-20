@@ -8,13 +8,15 @@ Run:
     ls -l secret.txt
 
 ### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/22420ebc-9f7a-44f1-992f-2463db2bf32a" />
 
-(Add screenshot here)
+
 
 ### Questions
 
 1.  Who owns the file?
-2.  What are the default permissions?
+2.  
+3.  What are the default permissions?
 
 ### Reflection
 
@@ -26,8 +28,8 @@ Why is file ownership important in Linux systems?
 
 Run:
 
-    chmod 600 secret.txt
-    ls -l secret.txt
+    <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/44cbf3d5-04e2-47d6-956f-8ab6495cec88" />
+
 
 ### Screenshot
 
