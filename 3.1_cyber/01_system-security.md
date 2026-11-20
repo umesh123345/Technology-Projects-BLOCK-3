@@ -13,9 +13,12 @@ Run:
 
 ### Questions
 
-1.  How many users exist on the system? 
-2.  Which accounts appear to be system accounts?
-3.  Why do operating systems create system accounts?
+1.  How many users exist on the system?
+2.  There are 29 user accounts shown in the /etc/passwd file in the screenshot.
+3.  Which accounts appear to be system accounts?
+4.  System accounts are accounts created for operating system services and background processes.
+5.  Why do operating systems create system accounts?
+6.  Operating systems create system accounts to run services and background processes securely.
 
 ### Reflection
 
@@ -37,13 +40,20 @@ Run:
 ### Questions
 
 1.  Which processes are running as `root`?
-2.  Why can processes running as root be dangerous?
-3.  What could happen if a malicious program ran with root privileges?
-
+2.  Many processes are running as root, including ;
+3.  /sbin/init splash
+4.  [kthread]
+5.  
+6.  Why can processes running as root be dangerous?
+7.  Process running as root have very high privileges and can access  or modify almost any file or system resource. If a process has a security vulnerability,attackers may exploit it to gain full control of the system. 
+8.  What could happen if a malicious program ran with root privileges?
+Amaicious program running as root could:
+Delete or modify important system file.
+steal personal data and password
 ### Reflection
 
 What did you learn about system processes and security?
-
+I learned that linux runs many background processes to manage the operating system.
 ------------------------------------------------------------------------
 
 ## Task 3 --- Identify Open Network Ports
