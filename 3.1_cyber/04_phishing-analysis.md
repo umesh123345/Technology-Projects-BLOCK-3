@@ -31,13 +31,21 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Questions
 
 1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
-4.  Does the link match the organisation domain?
+2.  The sender appears to be the security team,using the email adress support@secure-verification-update.com.
+   
+4.  Does the email create urgency or pressure?
+5.  Yes.It says the account will be locked within 24 hours.This creates fear and pressure to act quickly.
+6.  Are there spelling or grammar mistakes?
+7.  There are no obvious major spelling mistrakes,but the wording is suspicious and the greeting is generic("Hello User").
+8.  Does the link match the organisation domain?
+9.  No .The link uses
+10.  secure_update_verification.com,which does not appear to be an official organisation domain.
+11.  
 
 ### Reflection
 
 Explain why attackers use phishing emails.
+Attackers use phishing emails to trick people into revealing personal information,passwords and banking details.They may also use them to steal accounts or spread malware.
 
 ------------------------------------------------------------------------
 
@@ -52,7 +60,12 @@ Hover over the link in the email (or copy link) and inspect the URL.
 ### Questions
 
 1.  Does the displayed link match the actual URL?
-2.  Are there unusual domain names?
+2.  
+3.  The link shown in the email is:
+4.  http://secure-update-verification.com
+5. 
+6.  
+7.  Are there unusual domain names?
 
 ### Reflection
 
