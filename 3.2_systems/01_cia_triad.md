@@ -72,7 +72,10 @@ security system use hashing to check data integrity detect unauthorised changes 
 
 **Questions**
 - Why is system uptime important?
+- System uptime is important because it ensures that computers, servers and services remain available and accessible to users.
 - What happens if a system is unavailable?
+- If a system is unavailable users cannot acess its services or information. This can interrupt daily activities, reduce productivity, cause financial losses and affect customer satisfaction.
+-  
 
 ## Deliverables
 Include:
