@@ -53,8 +53,10 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 ** Questions**
 - Did the hash change?
+- Yes the hash change because contain of the file were modified.
+- 
 - Why do security systems use hashing?
-
+security system use hashing to check data integrity detect unauthorised changes and verify the information has not been modified.
 
 # Part 3 – Availability
 
