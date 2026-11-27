@@ -29,7 +29,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 **Questions**
 - Who can read this file?
+- only the owner of the file can read it because the permission is set to 600.Group members and other users cannot read the file.
 - How does file permission protect confidentiality?
+- File permissions protect confidentiality by restricting access to sensitive information . Using chmod 600 allows only the owner to read and write the file. Other users cannot acess its contents helping prevent unauthorised acess.
 
 ## Part 2 – Integrity
 
